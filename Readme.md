@@ -12,7 +12,6 @@
 - users.json ：ユーザー情報管理
 - warships.json ：艦艇データ管理
 - background.jpg ：背景画像
-- 実行画面キャプチャ ：動作確認用スクリーンショット
 
 ## 実行手順
 1. 任意のReact環境にファイルを配置
